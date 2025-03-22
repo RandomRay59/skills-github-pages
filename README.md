@@ -1,5 +1,6 @@
 <header>
-
+<h>I just want to see what this looks like</h>
+  <p>Am I doing this right?</p>
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
